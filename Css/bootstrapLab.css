@@ -2,3 +2,26 @@
 	background-image: url(https://psycatgames.com/sv/magazine/party-games/league-of-legends/feature-image_hu902f9612e19e63ad9a433906cd7b0fab_1159921_1600x900_fill_q75_box_center.jpg);
 	background-attachment: fixed;
 }
+#iconBg{
+	background-image: url(https://www.hdwallpapers.net/previews/janna-league-of-legends-1052.jpg);
+	background-size: 94.5%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.zoom:hover {
+  transform: scale(1.05);
+  z-index: 15; /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.carousel img{
+	height: 70vh;
+}
+.tableSlide{
+	width: 6%;
+}
+.tableChamps{
+	width: 94%;
+	margin-left: 3%;
+}
+ .activePage{
+ 	filter: brightness(1.6);
+ }
