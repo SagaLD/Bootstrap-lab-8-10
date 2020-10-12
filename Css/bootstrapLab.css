@@ -5,7 +5,7 @@
 #iconBg{
 	background-image: url(https://www.hdwallpapers.net/previews/janna-league-of-legends-1052.jpg);
 	background-size: 94.5%;
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
 	background-position: center;
 }
 .zoom:hover {
